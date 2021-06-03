@@ -1,0 +1,110 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="generator" content="Jekyll v4.1.1">
+    <title>Fluffy</title>
+
+    <!-- Bootstrap core CSS -->
+  <link href="assets/dist/css/bootstrap.min.css" rel="stylesheet">
+  <link rel="shortcut icon" href="#">
+  <link href="style.css" rel="stylesheet">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+  </head>
+  <body>
+    <header>
+      <!-- <div class="container"> -->
+        <div class="navbar">
+          <nav class="navbar navbar-expand-md navbar-dark fixed-top" style="background-color: #1a1812";>
+                <button class="btn btn-lg text-color" type="button">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="navbar-collapse" id="navbarCollapse">
+                    <a class="navbar-brand mx-auto" href="#">Fluffy Toys</a>
+                    <button class="btn btn-lg white my-auto" type="button" id="boton-carrito">
+                      <p class="cantidad-productos">0</p>
+                      <img src="img/carrito.png" alt="insertar SVG con la etiqueta image">
+                    </button>
+                </div>
+              </div>
+            </nav>
+        </div>
+        <div id="carrito" class="lista-compra">
+          <div class="container cart">
+            <a href="#" class="cerrar-tabla">x</a>
+              <table class="table">
+                <thead>
+                  <tr>
+                    <th>Imagen</th>
+                    <th>Nombre</th>
+                    <th>Cantidad</th>
+                    <th>Precio</th>
+                    <th></th>
+                  </tr>
+                </thead>
+                <tbody>
+                </tbody>
+              </table>
+              <div class="total mx-auto"><p>Total: 0.00</p></div>
+            <div class="container mx-auto">
+              <button type="button" class="btn btn-danger" id="vaciar-carrito">Eliminar Carrito</button>
+              <button type="button" class="btn btn-success" id="procesar-pedido">Comprar</button>
+            </div>
+          </div>
+        </div>
+    <!-- </div> -->
+    </header>
+
+<main role="main">
+  
+  <section class="jumbotron text-center white" id="cabecera">
+    <div class="container">
+      <h1>Fluffy Toys</h1>
+    </div>
+    <div class="container abs-center rebajas">
+
+    </div>
+    <div class="contador"></div>
+  </section>
+  
+  <div class="container form">
+    <div class="mx-auto" id="form">
+
+      </div>
+  </div>
+  <div class="album py-5 bg-light">
+    <div class="container" id="lista-productos">
+      
+    </div>
+  </div>
+
+</main>
+
+<footer class="text-muted">
+
+  <div class="container">
+    <div class="float-right">
+      <a href="#">
+        <svg width="3em" height="3em" viewBox="0 0 16 16" class="bi bi-arrow-up-square-fill" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+          <path fill-rule="evenodd" d="M2 0a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V2a2 2 0 0 0-2-2H2zm6.5 11.5a.5.5 0 0 1-1 0V5.707L5.354 
+          7.854a.5.5 0 1 1-.708-.708l3-3a.5.5 0 0 1 .708 0l3 3a.5.5 0 0 1-.708.708L8.5 5.707V11.5z"/>
+        </svg>
+      </a>
+    </div>
+    <div>Fluffy Toys &copy;</div>
+    
+  </div>
+
+</footer>
+      <script src="js/app.js" type="module"></script>
+      
+      <script>
+        $(document).ready(function(){
+          $('[data-toggle="tooltip"]').tooltip();
+        });
+        </script>
+      
+</html>

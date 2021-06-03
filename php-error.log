@@ -1,0 +1,301 @@
+[03-Mar-2021 20:54:18 Europe/Berlin] PHP Notice:  Undefined property: Articulo::$getBaja in C:\xampp\htdocs\Proyecto-Php\MVC_Basico\EJEMPLO_MVC\controllers\carrito_controller.php on line 26
+[03-Mar-2021 20:54:18 Europe/Berlin] PHP Stack trace:
+[03-Mar-2021 20:54:18 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\Proyecto-Php\MVC_Basico\EJEMPLO_MVC\index.php:0
+[03-Mar-2021 20:54:18 Europe/Berlin] PHP   2. FrontController::main() C:\xampp\htdocs\Proyecto-Php\MVC_Basico\EJEMPLO_MVC\index.php:10
+[03-Mar-2021 20:54:18 Europe/Berlin] PHP   3. Carrito_Controller->alta() C:\xampp\htdocs\Proyecto-Php\MVC_Basico\EJEMPLO_MVC\core\FrontController.php:54
+[03-Mar-2021 20:54:18 Europe/Berlin] PHP Notice:  Undefined property: Articulo::$getBaja in C:\xampp\htdocs\Proyecto-Php\MVC_Basico\EJEMPLO_MVC\controllers\carrito_controller.php on line 26
+[03-Mar-2021 20:54:18 Europe/Berlin] PHP Stack trace:
+[03-Mar-2021 20:54:18 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\Proyecto-Php\MVC_Basico\EJEMPLO_MVC\index.php:0
+[03-Mar-2021 20:54:18 Europe/Berlin] PHP   2. FrontController::main() C:\xampp\htdocs\Proyecto-Php\MVC_Basico\EJEMPLO_MVC\index.php:10
+[03-Mar-2021 20:54:18 Europe/Berlin] PHP   3. Carrito_Controller->alta() C:\xampp\htdocs\Proyecto-Php\MVC_Basico\EJEMPLO_MVC\core\FrontController.php:54
+[03-Mar-2021 20:54:18 Europe/Berlin] PHP Notice:  Undefined property: Articulo::$getBaja in C:\xampp\htdocs\Proyecto-Php\MVC_Basico\EJEMPLO_MVC\controllers\carrito_controller.php on line 26
+[03-Mar-2021 20:54:18 Europe/Berlin] PHP Stack trace:
+[03-Mar-2021 20:54:18 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\Proyecto-Php\MVC_Basico\EJEMPLO_MVC\index.php:0
+[03-Mar-2021 20:54:18 Europe/Berlin] PHP   2. FrontController::main() C:\xampp\htdocs\Proyecto-Php\MVC_Basico\EJEMPLO_MVC\index.php:10
+[03-Mar-2021 20:54:18 Europe/Berlin] PHP   3. Carrito_Controller->alta() C:\xampp\htdocs\Proyecto-Php\MVC_Basico\EJEMPLO_MVC\core\FrontController.php:54
+[03-Mar-2021 20:54:18 Europe/Berlin] PHP Notice:  Undefined property: Articulo::$getBaja in C:\xampp\htdocs\Proyecto-Php\MVC_Basico\EJEMPLO_MVC\controllers\carrito_controller.php on line 26
+[03-Mar-2021 20:54:18 Europe/Berlin] PHP Stack trace:
+[03-Mar-2021 20:54:18 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\Proyecto-Php\MVC_Basico\EJEMPLO_MVC\index.php:0
+[03-Mar-2021 20:54:18 Europe/Berlin] PHP   2. FrontController::main() C:\xampp\htdocs\Proyecto-Php\MVC_Basico\EJEMPLO_MVC\index.php:10
+[03-Mar-2021 20:54:18 Europe/Berlin] PHP   3. Carrito_Controller->alta() C:\xampp\htdocs\Proyecto-Php\MVC_Basico\EJEMPLO_MVC\core\FrontController.php:54
+[03-Mar-2021 20:54:18 Europe/Berlin] PHP Notice:  Undefined property: Articulo::$getBaja in C:\xampp\htdocs\Proyecto-Php\MVC_Basico\EJEMPLO_MVC\controllers\carrito_controller.php on line 26
+[03-Mar-2021 20:54:18 Europe/Berlin] PHP Stack trace:
+[03-Mar-2021 20:54:18 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\Proyecto-Php\MVC_Basico\EJEMPLO_MVC\index.php:0
+[03-Mar-2021 20:54:18 Europe/Berlin] PHP   2. FrontController::main() C:\xampp\htdocs\Proyecto-Php\MVC_Basico\EJEMPLO_MVC\index.php:10
+[03-Mar-2021 20:54:18 Europe/Berlin] PHP   3. Carrito_Controller->alta() C:\xampp\htdocs\Proyecto-Php\MVC_Basico\EJEMPLO_MVC\core\FrontController.php:54
+[03-Mar-2021 20:54:18 Europe/Berlin] PHP Notice:  Undefined property: Articulo::$getBaja in C:\xampp\htdocs\Proyecto-Php\MVC_Basico\EJEMPLO_MVC\controllers\carrito_controller.php on line 26
+[03-Mar-2021 20:54:18 Europe/Berlin] PHP Stack trace:
+[03-Mar-2021 20:54:18 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\Proyecto-Php\MVC_Basico\EJEMPLO_MVC\index.php:0
+[03-Mar-2021 20:54:18 Europe/Berlin] PHP   2. FrontController::main() C:\xampp\htdocs\Proyecto-Php\MVC_Basico\EJEMPLO_MVC\index.php:10
+[03-Mar-2021 20:54:18 Europe/Berlin] PHP   3. Carrito_Controller->alta() C:\xampp\htdocs\Proyecto-Php\MVC_Basico\EJEMPLO_MVC\core\FrontController.php:54
+[03-Mar-2021 20:54:18 Europe/Berlin] PHP Notice:  Undefined property: Articulo::$getBaja in C:\xampp\htdocs\Proyecto-Php\MVC_Basico\EJEMPLO_MVC\controllers\carrito_controller.php on line 26
+[03-Mar-2021 20:54:18 Europe/Berlin] PHP Stack trace:
+[03-Mar-2021 20:54:18 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\Proyecto-Php\MVC_Basico\EJEMPLO_MVC\index.php:0
+[03-Mar-2021 20:54:18 Europe/Berlin] PHP   2. FrontController::main() C:\xampp\htdocs\Proyecto-Php\MVC_Basico\EJEMPLO_MVC\index.php:10
+[03-Mar-2021 20:54:18 Europe/Berlin] PHP   3. Carrito_Controller->alta() C:\xampp\htdocs\Proyecto-Php\MVC_Basico\EJEMPLO_MVC\core\FrontController.php:54
+[03-Mar-2021 20:54:18 Europe/Berlin] PHP Notice:  Undefined property: Articulo::$getBaja in C:\xampp\htdocs\Proyecto-Php\MVC_Basico\EJEMPLO_MVC\controllers\carrito_controller.php on line 26
+[03-Mar-2021 20:54:18 Europe/Berlin] PHP Stack trace:
+[03-Mar-2021 20:54:18 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\Proyecto-Php\MVC_Basico\EJEMPLO_MVC\index.php:0
+[03-Mar-2021 20:54:18 Europe/Berlin] PHP   2. FrontController::main() C:\xampp\htdocs\Proyecto-Php\MVC_Basico\EJEMPLO_MVC\index.php:10
+[03-Mar-2021 20:54:18 Europe/Berlin] PHP   3. Carrito_Controller->alta() C:\xampp\htdocs\Proyecto-Php\MVC_Basico\EJEMPLO_MVC\core\FrontController.php:54
+[03-Mar-2021 20:54:18 Europe/Berlin] PHP Notice:  Undefined property: Articulo::$getBaja in C:\xampp\htdocs\Proyecto-Php\MVC_Basico\EJEMPLO_MVC\controllers\carrito_controller.php on line 26
+[03-Mar-2021 20:54:18 Europe/Berlin] PHP Stack trace:
+[03-Mar-2021 20:54:18 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\Proyecto-Php\MVC_Basico\EJEMPLO_MVC\index.php:0
+[03-Mar-2021 20:54:18 Europe/Berlin] PHP   2. FrontController::main() C:\xampp\htdocs\Proyecto-Php\MVC_Basico\EJEMPLO_MVC\index.php:10
+[03-Mar-2021 20:54:18 Europe/Berlin] PHP   3. Carrito_Controller->alta() C:\xampp\htdocs\Proyecto-Php\MVC_Basico\EJEMPLO_MVC\core\FrontController.php:54
+[03-Mar-2021 20:57:24 Europe/Berlin] PHP Notice:  Undefined variable: articulos in C:\xampp\htdocs\Proyecto-Php\MVC_Basico\EJEMPLO_MVC\views\contenido\Carrito\listarItems.php on line 4
+[03-Mar-2021 20:57:24 Europe/Berlin] PHP Stack trace:
+[03-Mar-2021 20:57:24 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\Proyecto-Php\MVC_Basico\EJEMPLO_MVC\index.php:0
+[03-Mar-2021 20:57:24 Europe/Berlin] PHP   2. FrontController::main() C:\xampp\htdocs\Proyecto-Php\MVC_Basico\EJEMPLO_MVC\index.php:10
+[03-Mar-2021 20:57:24 Europe/Berlin] PHP   3. Carrito_Controller->alta() C:\xampp\htdocs\Proyecto-Php\MVC_Basico\EJEMPLO_MVC\core\FrontController.php:54
+[03-Mar-2021 20:57:24 Europe/Berlin] PHP   4. View->show() C:\xampp\htdocs\Proyecto-Php\MVC_Basico\EJEMPLO_MVC\controllers\carrito_controller.php:61
+[03-Mar-2021 20:57:24 Europe/Berlin] PHP   5. include_once() C:\xampp\htdocs\Proyecto-Php\MVC_Basico\EJEMPLO_MVC\core\View.php:29
+[03-Mar-2021 20:57:24 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\Proyecto-Php\MVC_Basico\EJEMPLO_MVC\views\contenido\Carrito\listarItems.php on line 4
+[03-Mar-2021 20:57:24 Europe/Berlin] PHP Stack trace:
+[03-Mar-2021 20:57:24 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\Proyecto-Php\MVC_Basico\EJEMPLO_MVC\index.php:0
+[03-Mar-2021 20:57:24 Europe/Berlin] PHP   2. FrontController::main() C:\xampp\htdocs\Proyecto-Php\MVC_Basico\EJEMPLO_MVC\index.php:10
+[03-Mar-2021 20:57:24 Europe/Berlin] PHP   3. Carrito_Controller->alta() C:\xampp\htdocs\Proyecto-Php\MVC_Basico\EJEMPLO_MVC\core\FrontController.php:54
+[03-Mar-2021 20:57:24 Europe/Berlin] PHP   4. View->show() C:\xampp\htdocs\Proyecto-Php\MVC_Basico\EJEMPLO_MVC\controllers\carrito_controller.php:61
+[03-Mar-2021 20:57:24 Europe/Berlin] PHP   5. include_once() C:\xampp\htdocs\Proyecto-Php\MVC_Basico\EJEMPLO_MVC\core\View.php:29
+[03-Mar-2021 21:15:01 Europe/Berlin] PHP Notice:  Undefined index: cantidad0 in C:\xampp\htdocs\Proyecto-Php\MVC_Basico\EJEMPLO_MVC\controllers\pedidos_controller.php on line 199
+[03-Mar-2021 21:15:02 Europe/Berlin] PHP Stack trace:
+[03-Mar-2021 21:15:02 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\Proyecto-Php\MVC_Basico\EJEMPLO_MVC\index.php:0
+[03-Mar-2021 21:15:02 Europe/Berlin] PHP   2. FrontController::main() C:\xampp\htdocs\Proyecto-Php\MVC_Basico\EJEMPLO_MVC\index.php:10
+[03-Mar-2021 21:15:02 Europe/Berlin] PHP   3. pedidos_Controller->editar() C:\xampp\htdocs\Proyecto-Php\MVC_Basico\EJEMPLO_MVC\core\FrontController.php:54
+[03-Mar-2021 21:15:02 Europe/Berlin] PHP Notice:  Undefined index: cantidad0 in C:\xampp\htdocs\Proyecto-Php\MVC_Basico\EJEMPLO_MVC\controllers\pedidos_controller.php on line 202
+[03-Mar-2021 21:15:02 Europe/Berlin] PHP Stack trace:
+[03-Mar-2021 21:15:02 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\Proyecto-Php\MVC_Basico\EJEMPLO_MVC\index.php:0
+[03-Mar-2021 21:15:02 Europe/Berlin] PHP   2. FrontController::main() C:\xampp\htdocs\Proyecto-Php\MVC_Basico\EJEMPLO_MVC\index.php:10
+[03-Mar-2021 21:15:02 Europe/Berlin] PHP   3. pedidos_Controller->editar() C:\xampp\htdocs\Proyecto-Php\MVC_Basico\EJEMPLO_MVC\core\FrontController.php:54
+[03-Mar-2021 21:15:02 Europe/Berlin] PHP Notice:  Undefined index: cantidad1 in C:\xampp\htdocs\Proyecto-Php\MVC_Basico\EJEMPLO_MVC\controllers\pedidos_controller.php on line 199
+[03-Mar-2021 21:15:02 Europe/Berlin] PHP Stack trace:
+[03-Mar-2021 21:15:02 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\Proyecto-Php\MVC_Basico\EJEMPLO_MVC\index.php:0
+[03-Mar-2021 21:15:02 Europe/Berlin] PHP   2. FrontController::main() C:\xampp\htdocs\Proyecto-Php\MVC_Basico\EJEMPLO_MVC\index.php:10
+[03-Mar-2021 21:15:02 Europe/Berlin] PHP   3. pedidos_Controller->editar() C:\xampp\htdocs\Proyecto-Php\MVC_Basico\EJEMPLO_MVC\core\FrontController.php:54
+[03-Mar-2021 21:15:02 Europe/Berlin] PHP Notice:  Undefined index: cantidad1 in C:\xampp\htdocs\Proyecto-Php\MVC_Basico\EJEMPLO_MVC\controllers\pedidos_controller.php on line 202
+[03-Mar-2021 21:15:02 Europe/Berlin] PHP Stack trace:
+[03-Mar-2021 21:15:02 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\Proyecto-Php\MVC_Basico\EJEMPLO_MVC\index.php:0
+[03-Mar-2021 21:15:02 Europe/Berlin] PHP   2. FrontController::main() C:\xampp\htdocs\Proyecto-Php\MVC_Basico\EJEMPLO_MVC\index.php:10
+[03-Mar-2021 21:15:02 Europe/Berlin] PHP   3. pedidos_Controller->editar() C:\xampp\htdocs\Proyecto-Php\MVC_Basico\EJEMPLO_MVC\core\FrontController.php:54
+[03-Mar-2021 22:47:09 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'gestor'@'localhost' (using password: YES) in C:\xampp\htdocs\Proyecto-Php\MVC_Basico\Aracil_Nieves_Final\Codigo\core\DBManager.php:24
+Stack trace:
+#0 C:\xampp\htdocs\Proyecto-Php\MVC_Basico\Aracil_Nieves_Final\Codigo\core\DBManager.php(24): PDO->__construct('mysql:host=loca...', 'gestor', '123456')
+#1 C:\xampp\htdocs\Proyecto-Php\MVC_Basico\Aracil_Nieves_Final\Codigo\core\Base_Model.php(8): DBManager->conectar()
+#2 C:\xampp\htdocs\Proyecto-Php\MVC_Basico\Aracil_Nieves_Final\Codigo\controllers\login_controller.php(23): Base_Model->__construct()
+#3 C:\xampp\htdocs\Proyecto-Php\MVC_Basico\Aracil_Nieves_Final\Codigo\core\FrontController.php(54): Login_Controller->comprobarUsuario()
+#4 C:\xampp\htdocs\Proyecto-Php\MVC_Basico\Aracil_Nieves_Final\Codigo\index.php(10): FrontController::main()
+#5 {main}
+  thrown in C:\xampp\htdocs\Proyecto-Php\MVC_Basico\Aracil_Nieves_Final\Codigo\core\DBManager.php on line 24
+[03-Mar-2021 22:47:10 Europe/Berlin] PHP Stack trace:
+[03-Mar-2021 22:47:10 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\Proyecto-Php\MVC_Basico\Aracil_Nieves_Final\Codigo\index.php:0
+[03-Mar-2021 22:47:10 Europe/Berlin] PHP   2. FrontController::main() C:\xampp\htdocs\Proyecto-Php\MVC_Basico\Aracil_Nieves_Final\Codigo\index.php:10
+[03-Mar-2021 22:47:10 Europe/Berlin] PHP   3. Login_Controller->comprobarUsuario() C:\xampp\htdocs\Proyecto-Php\MVC_Basico\Aracil_Nieves_Final\Codigo\core\FrontController.php:54
+[03-Mar-2021 22:47:10 Europe/Berlin] PHP   4. Login_Model->__construct() C:\xampp\htdocs\Proyecto-Php\MVC_Basico\Aracil_Nieves_Final\Codigo\controllers\login_controller.php:23
+[03-Mar-2021 22:47:10 Europe/Berlin] PHP   5. DBManager->conectar() C:\xampp\htdocs\Proyecto-Php\MVC_Basico\Aracil_Nieves_Final\Codigo\core\Base_Model.php:8
+[03-Mar-2021 22:47:10 Europe/Berlin] PHP   6. PDO->__construct(*uninitialized*, *uninitialized*, *uninitialized*) C:\xampp\htdocs\Proyecto-Php\MVC_Basico\Aracil_Nieves_Final\Codigo\core\DBManager.php:24
+[03-Apr-2021 12:49:29 Europe/Berlin] PHP Notice:  Undefined variable: clientes_pedidos in C:\xampp\htdocs\ejercicios\Aracil_Nieves_Final\Codigo\views\contenido\Pedidos\listar.php on line 36
+[03-Apr-2021 12:49:29 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\ejercicios\Aracil_Nieves_Final\Codigo\views\contenido\Pedidos\listar.php on line 36
+[03-Apr-2021 12:49:29 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function getNick() on null in C:\xampp\htdocs\ejercicios\Aracil_Nieves_Final\Codigo\views\contenido\Pedidos\listar.php:36
+Stack trace:
+#0 C:\xampp\htdocs\ejercicios\Aracil_Nieves_Final\Codigo\core\View.php(29): include_once()
+#1 C:\xampp\htdocs\ejercicios\Aracil_Nieves_Final\Codigo\controllers\pedidos_controller.php(173): View->show('contenido/Pedid...', Array)
+#2 C:\xampp\htdocs\ejercicios\Aracil_Nieves_Final\Codigo\core\FrontController.php(45): pedidos_Controller->eliminar()
+#3 C:\xampp\htdocs\ejercicios\Aracil_Nieves_Final\Codigo\index.php(10): FrontController::main()
+#4 {main}
+  thrown in C:\xampp\htdocs\ejercicios\Aracil_Nieves_Final\Codigo\views\contenido\Pedidos\listar.php on line 36
+[03-Apr-2021 12:49:36 Europe/Berlin] PHP Notice:  Undefined variable: clientes_pedidos in C:\xampp\htdocs\ejercicios\Aracil_Nieves_Final\Codigo\views\contenido\Pedidos\listar.php on line 36
+[03-Apr-2021 12:49:36 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\ejercicios\Aracil_Nieves_Final\Codigo\views\contenido\Pedidos\listar.php on line 36
+[03-Apr-2021 12:49:36 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function getNick() on null in C:\xampp\htdocs\ejercicios\Aracil_Nieves_Final\Codigo\views\contenido\Pedidos\listar.php:36
+Stack trace:
+#0 C:\xampp\htdocs\ejercicios\Aracil_Nieves_Final\Codigo\core\View.php(29): include_once()
+#1 C:\xampp\htdocs\ejercicios\Aracil_Nieves_Final\Codigo\controllers\pedidos_controller.php(173): View->show('contenido/Pedid...', Array)
+#2 C:\xampp\htdocs\ejercicios\Aracil_Nieves_Final\Codigo\core\FrontController.php(45): pedidos_Controller->eliminar()
+#3 C:\xampp\htdocs\ejercicios\Aracil_Nieves_Final\Codigo\index.php(10): FrontController::main()
+#4 {main}
+  thrown in C:\xampp\htdocs\ejercicios\Aracil_Nieves_Final\Codigo\views\contenido\Pedidos\listar.php on line 36
+[03-Apr-2021 12:50:09 Europe/Berlin] PHP Notice:  Undefined variable: clientes_pedidos in C:\xampp\htdocs\ejercicios\Aracil_Nieves_Final\Codigo\views\contenido\Pedidos\listar.php on line 36
+[03-Apr-2021 12:50:09 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\ejercicios\Aracil_Nieves_Final\Codigo\views\contenido\Pedidos\listar.php on line 36
+[03-Apr-2021 12:50:09 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function getNick() on null in C:\xampp\htdocs\ejercicios\Aracil_Nieves_Final\Codigo\views\contenido\Pedidos\listar.php:36
+Stack trace:
+#0 C:\xampp\htdocs\ejercicios\Aracil_Nieves_Final\Codigo\core\View.php(29): include_once()
+#1 C:\xampp\htdocs\ejercicios\Aracil_Nieves_Final\Codigo\controllers\pedidos_controller.php(173): View->show('contenido/Pedid...', Array)
+#2 C:\xampp\htdocs\ejercicios\Aracil_Nieves_Final\Codigo\core\FrontController.php(45): pedidos_Controller->eliminar()
+#3 C:\xampp\htdocs\ejercicios\Aracil_Nieves_Final\Codigo\index.php(10): FrontController::main()
+#4 {main}
+  thrown in C:\xampp\htdocs\ejercicios\Aracil_Nieves_Final\Codigo\views\contenido\Pedidos\listar.php on line 36
+[03-Apr-2021 12:50:15 Europe/Berlin] PHP Notice:  Undefined variable: clientes_pedidos in C:\xampp\htdocs\ejercicios\Aracil_Nieves_Final\Codigo\views\contenido\Pedidos\listar.php on line 36
+[03-Apr-2021 12:50:15 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\ejercicios\Aracil_Nieves_Final\Codigo\views\contenido\Pedidos\listar.php on line 36
+[03-Apr-2021 12:50:15 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function getNick() on null in C:\xampp\htdocs\ejercicios\Aracil_Nieves_Final\Codigo\views\contenido\Pedidos\listar.php:36
+Stack trace:
+#0 C:\xampp\htdocs\ejercicios\Aracil_Nieves_Final\Codigo\core\View.php(29): include_once()
+#1 C:\xampp\htdocs\ejercicios\Aracil_Nieves_Final\Codigo\controllers\pedidos_controller.php(173): View->show('contenido/Pedid...', Array)
+#2 C:\xampp\htdocs\ejercicios\Aracil_Nieves_Final\Codigo\core\FrontController.php(45): pedidos_Controller->eliminar()
+#3 C:\xampp\htdocs\ejercicios\Aracil_Nieves_Final\Codigo\index.php(10): FrontController::main()
+#4 {main}
+  thrown in C:\xampp\htdocs\ejercicios\Aracil_Nieves_Final\Codigo\views\contenido\Pedidos\listar.php on line 36
+[05-Apr-2021 10:38:53 Europe/Berlin] PHP Notice:  Undefined variable: clientes_pedidos in C:\xampp\htdocs\ejercicios\Aracil_Nieves_Final\Codigo\views\contenido\Pedidos\listar.php on line 36
+[05-Apr-2021 10:38:53 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\ejercicios\Aracil_Nieves_Final\Codigo\views\contenido\Pedidos\listar.php on line 36
+[05-Apr-2021 10:38:53 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function getNick() on null in C:\xampp\htdocs\ejercicios\Aracil_Nieves_Final\Codigo\views\contenido\Pedidos\listar.php:36
+Stack trace:
+#0 C:\xampp\htdocs\ejercicios\Aracil_Nieves_Final\Codigo\core\View.php(29): include_once()
+#1 C:\xampp\htdocs\ejercicios\Aracil_Nieves_Final\Codigo\controllers\pedidos_controller.php(173): View->show('contenido/Pedid...', Array)
+#2 C:\xampp\htdocs\ejercicios\Aracil_Nieves_Final\Codigo\core\FrontController.php(45): pedidos_Controller->eliminar()
+#3 C:\xampp\htdocs\ejercicios\Aracil_Nieves_Final\Codigo\index.php(10): FrontController::main()
+#4 {main}
+  thrown in C:\xampp\htdocs\ejercicios\Aracil_Nieves_Final\Codigo\views\contenido\Pedidos\listar.php on line 36
+[05-Apr-2021 10:39:02 Europe/Berlin] PHP Notice:  Undefined variable: clientes_pedidos in C:\xampp\htdocs\ejercicios\Aracil_Nieves_Final\Codigo\views\contenido\Pedidos\listar.php on line 36
+[05-Apr-2021 10:39:02 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\ejercicios\Aracil_Nieves_Final\Codigo\views\contenido\Pedidos\listar.php on line 36
+[05-Apr-2021 10:39:02 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function getNick() on null in C:\xampp\htdocs\ejercicios\Aracil_Nieves_Final\Codigo\views\contenido\Pedidos\listar.php:36
+Stack trace:
+#0 C:\xampp\htdocs\ejercicios\Aracil_Nieves_Final\Codigo\core\View.php(29): include_once()
+#1 C:\xampp\htdocs\ejercicios\Aracil_Nieves_Final\Codigo\controllers\pedidos_controller.php(173): View->show('contenido/Pedid...', Array)
+#2 C:\xampp\htdocs\ejercicios\Aracil_Nieves_Final\Codigo\core\FrontController.php(45): pedidos_Controller->eliminar()
+#3 C:\xampp\htdocs\ejercicios\Aracil_Nieves_Final\Codigo\index.php(10): FrontController::main()
+#4 {main}
+  thrown in C:\xampp\htdocs\ejercicios\Aracil_Nieves_Final\Codigo\views\contenido\Pedidos\listar.php on line 36
+[05-Apr-2021 10:39:10 Europe/Berlin] PHP Notice:  Undefined variable: clientes_pedidos in C:\xampp\htdocs\ejercicios\Aracil_Nieves_Final\Codigo\views\contenido\Pedidos\listar.php on line 36
+[05-Apr-2021 10:39:10 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\ejercicios\Aracil_Nieves_Final\Codigo\views\contenido\Pedidos\listar.php on line 36
+[05-Apr-2021 10:39:10 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function getNick() on null in C:\xampp\htdocs\ejercicios\Aracil_Nieves_Final\Codigo\views\contenido\Pedidos\listar.php:36
+Stack trace:
+#0 C:\xampp\htdocs\ejercicios\Aracil_Nieves_Final\Codigo\core\View.php(29): include_once()
+#1 C:\xampp\htdocs\ejercicios\Aracil_Nieves_Final\Codigo\controllers\pedidos_controller.php(173): View->show('contenido/Pedid...', Array)
+#2 C:\xampp\htdocs\ejercicios\Aracil_Nieves_Final\Codigo\core\FrontController.php(45): pedidos_Controller->eliminar()
+#3 C:\xampp\htdocs\ejercicios\Aracil_Nieves_Final\Codigo\index.php(10): FrontController::main()
+#4 {main}
+  thrown in C:\xampp\htdocs\ejercicios\Aracil_Nieves_Final\Codigo\views\contenido\Pedidos\listar.php on line 36
+[05-Apr-2021 10:39:13 Europe/Berlin] PHP Notice:  Undefined variable: clientes_pedidos in C:\xampp\htdocs\ejercicios\Aracil_Nieves_Final\Codigo\views\contenido\Pedidos\listar.php on line 36
+[05-Apr-2021 10:39:13 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\ejercicios\Aracil_Nieves_Final\Codigo\views\contenido\Pedidos\listar.php on line 36
+[05-Apr-2021 10:39:13 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function getNick() on null in C:\xampp\htdocs\ejercicios\Aracil_Nieves_Final\Codigo\views\contenido\Pedidos\listar.php:36
+Stack trace:
+#0 C:\xampp\htdocs\ejercicios\Aracil_Nieves_Final\Codigo\core\View.php(29): include_once()
+#1 C:\xampp\htdocs\ejercicios\Aracil_Nieves_Final\Codigo\controllers\pedidos_controller.php(173): View->show('contenido/Pedid...', Array)
+#2 C:\xampp\htdocs\ejercicios\Aracil_Nieves_Final\Codigo\core\FrontController.php(45): pedidos_Controller->eliminar()
+#3 C:\xampp\htdocs\ejercicios\Aracil_Nieves_Final\Codigo\index.php(10): FrontController::main()
+#4 {main}
+  thrown in C:\xampp\htdocs\ejercicios\Aracil_Nieves_Final\Codigo\views\contenido\Pedidos\listar.php on line 36
+[05-Apr-2021 11:08:49 Europe/Berlin] PHP Notice:  Undefined variable: clientes_pedidos in C:\xampp\htdocs\ejercicios\Luis_GArcia_Clavel_final\views\contenido\Pedidos\listar.php on line 36
+[05-Apr-2021 11:08:49 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\ejercicios\Luis_GArcia_Clavel_final\views\contenido\Pedidos\listar.php on line 36
+[05-Apr-2021 11:08:49 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function getNick() on null in C:\xampp\htdocs\ejercicios\Luis_GArcia_Clavel_final\views\contenido\Pedidos\listar.php:36
+Stack trace:
+#0 C:\xampp\htdocs\ejercicios\Luis_GArcia_Clavel_final\core\View.php(29): include_once()
+#1 C:\xampp\htdocs\ejercicios\Luis_GArcia_Clavel_final\controllers\pedidos_controller.php(173): View->show('contenido/Pedid...', Array)
+#2 C:\xampp\htdocs\ejercicios\Luis_GArcia_Clavel_final\core\FrontController.php(45): pedidos_Controller->eliminar()
+#3 C:\xampp\htdocs\ejercicios\Luis_GArcia_Clavel_final\index.php(10): FrontController::main()
+#4 {main}
+  thrown in C:\xampp\htdocs\ejercicios\Luis_GArcia_Clavel_final\views\contenido\Pedidos\listar.php on line 36
+[05-Apr-2021 11:09:47 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: Return value of Clientes_Model::read() must be an instance of Cliente, null returned in C:\xampp\htdocs\ejercicios\Luis_GArcia_Clavel_final\models\Clientes_Model.php:17
+Stack trace:
+#0 C:\xampp\htdocs\ejercicios\Luis_GArcia_Clavel_final\controllers\clientes_controller.php(103): Clientes_Model->read('2')
+#1 C:\xampp\htdocs\ejercicios\Luis_GArcia_Clavel_final\core\FrontController.php(45): Clientes_Controller->eliminar()
+#2 C:\xampp\htdocs\ejercicios\Luis_GArcia_Clavel_final\index.php(10): FrontController::main()
+#3 {main}
+  thrown in C:\xampp\htdocs\ejercicios\Luis_GArcia_Clavel_final\models\Clientes_Model.php on line 17
+[05-Apr-2021 14:05:05 Europe/Berlin] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\ejercicios\Luis_GArcia_Clavel_final\controllers\albaranes_controller.php on line 221
+[05-Apr-2021 14:05:05 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function getCod_pedido() on null in C:\xampp\htdocs\ejercicios\Luis_GArcia_Clavel_final\controllers\albaranes_controller.php:221
+Stack trace:
+#0 C:\xampp\htdocs\ejercicios\Luis_GArcia_Clavel_final\core\FrontController.php(45): Albaranes_Controller->eliminar()
+#1 C:\xampp\htdocs\ejercicios\Luis_GArcia_Clavel_final\index.php(10): FrontController::main()
+#2 {main}
+  thrown in C:\xampp\htdocs\ejercicios\Luis_GArcia_Clavel_final\controllers\albaranes_controller.php on line 221
+[05-Apr-2021 14:09:54 Europe/Berlin] PHP Notice:  Undefined index: cliente in C:\xampp\htdocs\ejercicios\TEMA 9 AJAX\Luis_GArcia_Clavel_final\controllers\facturas_controller.php on line 102
+[05-Apr-2021 14:25:37 Europe/Berlin] PHP Notice:  Undefined variable: clientes_pedidos in C:\xampp\htdocs\ejercicios\TEMA 9 AJAX\Luis_GArcia_Clavel_final\views\contenido\Pedidos\listar.php on line 36
+[05-Apr-2021 14:25:37 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\ejercicios\TEMA 9 AJAX\Luis_GArcia_Clavel_final\views\contenido\Pedidos\listar.php on line 36
+[05-Apr-2021 14:25:37 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function getNick() on null in C:\xampp\htdocs\ejercicios\TEMA 9 AJAX\Luis_GArcia_Clavel_final\views\contenido\Pedidos\listar.php:36
+Stack trace:
+#0 C:\xampp\htdocs\ejercicios\TEMA 9 AJAX\Luis_GArcia_Clavel_final\core\View.php(29): include_once()
+#1 C:\xampp\htdocs\ejercicios\TEMA 9 AJAX\Luis_GArcia_Clavel_final\controllers\pedidos_controller.php(173): View->show('contenido/Pedid...', Array)
+#2 C:\xampp\htdocs\ejercicios\TEMA 9 AJAX\Luis_GArcia_Clavel_final\core\FrontController.php(45): pedidos_Controller->eliminar()
+#3 C:\xampp\htdocs\ejercicios\TEMA 9 AJAX\Luis_GArcia_Clavel_final\index.php(10): FrontController::main()
+#4 {main}
+  thrown in C:\xampp\htdocs\ejercicios\TEMA 9 AJAX\Luis_GArcia_Clavel_final\views\contenido\Pedidos\listar.php on line 36
+[05-Apr-2021 14:25:39 Europe/Berlin] PHP Notice:  Undefined variable: clientes_pedidos in C:\xampp\htdocs\ejercicios\TEMA 9 AJAX\Luis_GArcia_Clavel_final\views\contenido\Pedidos\listar.php on line 36
+[05-Apr-2021 14:25:39 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\ejercicios\TEMA 9 AJAX\Luis_GArcia_Clavel_final\views\contenido\Pedidos\listar.php on line 36
+[05-Apr-2021 14:25:39 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function getNick() on null in C:\xampp\htdocs\ejercicios\TEMA 9 AJAX\Luis_GArcia_Clavel_final\views\contenido\Pedidos\listar.php:36
+Stack trace:
+#0 C:\xampp\htdocs\ejercicios\TEMA 9 AJAX\Luis_GArcia_Clavel_final\core\View.php(29): include_once()
+#1 C:\xampp\htdocs\ejercicios\TEMA 9 AJAX\Luis_GArcia_Clavel_final\controllers\pedidos_controller.php(173): View->show('contenido/Pedid...', Array)
+#2 C:\xampp\htdocs\ejercicios\TEMA 9 AJAX\Luis_GArcia_Clavel_final\core\FrontController.php(45): pedidos_Controller->eliminar()
+#3 C:\xampp\htdocs\ejercicios\TEMA 9 AJAX\Luis_GArcia_Clavel_final\index.php(10): FrontController::main()
+#4 {main}
+  thrown in C:\xampp\htdocs\ejercicios\TEMA 9 AJAX\Luis_GArcia_Clavel_final\views\contenido\Pedidos\listar.php on line 36
+[07-May-2021 17:32:37 Europe/Berlin] PHP Notice:  Undefined variable: clientes_pedidos in C:\xampp\htdocs\ejercicios\TFG\Luis_GArcia_Clavel_final\views\contenido\Pedidos\listar.php on line 36
+[07-May-2021 17:32:37 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\ejercicios\TFG\Luis_GArcia_Clavel_final\views\contenido\Pedidos\listar.php on line 36
+[07-May-2021 17:32:37 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function getNick() on null in C:\xampp\htdocs\ejercicios\TFG\Luis_GArcia_Clavel_final\views\contenido\Pedidos\listar.php:36
+Stack trace:
+#0 C:\xampp\htdocs\ejercicios\TFG\Luis_GArcia_Clavel_final\core\View.php(27): include_once()
+#1 C:\xampp\htdocs\ejercicios\TFG\Luis_GArcia_Clavel_final\controllers\pedidos_controller.php(173): View->show('contenido/Pedid...', Array)
+#2 C:\xampp\htdocs\ejercicios\TFG\Luis_GArcia_Clavel_final\core\FrontController.php(42): pedidos_Controller->eliminar()
+#3 C:\xampp\htdocs\ejercicios\TFG\Luis_GArcia_Clavel_final\index.php(10): FrontController::main()
+#4 {main}
+  thrown in C:\xampp\htdocs\ejercicios\TFG\Luis_GArcia_Clavel_final\views\contenido\Pedidos\listar.php on line 36
+[07-May-2021 17:32:42 Europe/Berlin] PHP Notice:  Undefined variable: clientes_pedidos in C:\xampp\htdocs\ejercicios\TFG\Luis_GArcia_Clavel_final\views\contenido\Pedidos\listar.php on line 36
+[07-May-2021 17:32:42 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\ejercicios\TFG\Luis_GArcia_Clavel_final\views\contenido\Pedidos\listar.php on line 36
+[07-May-2021 17:32:42 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function getNick() on null in C:\xampp\htdocs\ejercicios\TFG\Luis_GArcia_Clavel_final\views\contenido\Pedidos\listar.php:36
+Stack trace:
+#0 C:\xampp\htdocs\ejercicios\TFG\Luis_GArcia_Clavel_final\core\View.php(27): include_once()
+#1 C:\xampp\htdocs\ejercicios\TFG\Luis_GArcia_Clavel_final\controllers\pedidos_controller.php(173): View->show('contenido/Pedid...', Array)
+#2 C:\xampp\htdocs\ejercicios\TFG\Luis_GArcia_Clavel_final\core\FrontController.php(42): pedidos_Controller->eliminar()
+#3 C:\xampp\htdocs\ejercicios\TFG\Luis_GArcia_Clavel_final\index.php(10): FrontController::main()
+#4 {main}
+  thrown in C:\xampp\htdocs\ejercicios\TFG\Luis_GArcia_Clavel_final\views\contenido\Pedidos\listar.php on line 36
+[07-May-2021 17:32:44 Europe/Berlin] PHP Notice:  Undefined variable: clientes_pedidos in C:\xampp\htdocs\ejercicios\TFG\Luis_GArcia_Clavel_final\views\contenido\Pedidos\listar.php on line 36
+[07-May-2021 17:32:44 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\ejercicios\TFG\Luis_GArcia_Clavel_final\views\contenido\Pedidos\listar.php on line 36
+[07-May-2021 17:32:44 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function getNick() on null in C:\xampp\htdocs\ejercicios\TFG\Luis_GArcia_Clavel_final\views\contenido\Pedidos\listar.php:36
+Stack trace:
+#0 C:\xampp\htdocs\ejercicios\TFG\Luis_GArcia_Clavel_final\core\View.php(27): include_once()
+#1 C:\xampp\htdocs\ejercicios\TFG\Luis_GArcia_Clavel_final\controllers\pedidos_controller.php(173): View->show('contenido/Pedid...', Array)
+#2 C:\xampp\htdocs\ejercicios\TFG\Luis_GArcia_Clavel_final\core\FrontController.php(42): pedidos_Controller->eliminar()
+#3 C:\xampp\htdocs\ejercicios\TFG\Luis_GArcia_Clavel_final\index.php(10): FrontController::main()
+#4 {main}
+  thrown in C:\xampp\htdocs\ejercicios\TFG\Luis_GArcia_Clavel_final\views\contenido\Pedidos\listar.php on line 36
+[07-May-2021 17:32:47 Europe/Berlin] PHP Notice:  Undefined variable: clientes_pedidos in C:\xampp\htdocs\ejercicios\TFG\Luis_GArcia_Clavel_final\views\contenido\Pedidos\listar.php on line 36
+[07-May-2021 17:32:47 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\ejercicios\TFG\Luis_GArcia_Clavel_final\views\contenido\Pedidos\listar.php on line 36
+[07-May-2021 17:32:47 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function getNick() on null in C:\xampp\htdocs\ejercicios\TFG\Luis_GArcia_Clavel_final\views\contenido\Pedidos\listar.php:36
+Stack trace:
+#0 C:\xampp\htdocs\ejercicios\TFG\Luis_GArcia_Clavel_final\core\View.php(27): include_once()
+#1 C:\xampp\htdocs\ejercicios\TFG\Luis_GArcia_Clavel_final\controllers\pedidos_controller.php(173): View->show('contenido/Pedid...', Array)
+#2 C:\xampp\htdocs\ejercicios\TFG\Luis_GArcia_Clavel_final\core\FrontController.php(42): pedidos_Controller->eliminar()
+#3 C:\xampp\htdocs\ejercicios\TFG\Luis_GArcia_Clavel_final\index.php(10): FrontController::main()
+#4 {main}
+  thrown in C:\xampp\htdocs\ejercicios\TFG\Luis_GArcia_Clavel_final\views\contenido\Pedidos\listar.php on line 36
+[07-May-2021 17:32:49 Europe/Berlin] PHP Notice:  Undefined variable: clientes_pedidos in C:\xampp\htdocs\ejercicios\TFG\Luis_GArcia_Clavel_final\views\contenido\Pedidos\listar.php on line 36
+[07-May-2021 17:32:49 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\ejercicios\TFG\Luis_GArcia_Clavel_final\views\contenido\Pedidos\listar.php on line 36
+[07-May-2021 17:32:49 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function getNick() on null in C:\xampp\htdocs\ejercicios\TFG\Luis_GArcia_Clavel_final\views\contenido\Pedidos\listar.php:36
+Stack trace:
+#0 C:\xampp\htdocs\ejercicios\TFG\Luis_GArcia_Clavel_final\core\View.php(27): include_once()
+#1 C:\xampp\htdocs\ejercicios\TFG\Luis_GArcia_Clavel_final\controllers\pedidos_controller.php(173): View->show('contenido/Pedid...', Array)
+#2 C:\xampp\htdocs\ejercicios\TFG\Luis_GArcia_Clavel_final\core\FrontController.php(42): pedidos_Controller->eliminar()
+#3 C:\xampp\htdocs\ejercicios\TFG\Luis_GArcia_Clavel_final\index.php(10): FrontController::main()
+#4 {main}
+  thrown in C:\xampp\htdocs\ejercicios\TFG\Luis_GArcia_Clavel_final\views\contenido\Pedidos\listar.php on line 36
+[07-May-2021 17:32:52 Europe/Berlin] PHP Notice:  Undefined variable: clientes_pedidos in C:\xampp\htdocs\ejercicios\TFG\Luis_GArcia_Clavel_final\views\contenido\Pedidos\listar.php on line 36
+[07-May-2021 17:32:52 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\ejercicios\TFG\Luis_GArcia_Clavel_final\views\contenido\Pedidos\listar.php on line 36
+[07-May-2021 17:32:52 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function getNick() on null in C:\xampp\htdocs\ejercicios\TFG\Luis_GArcia_Clavel_final\views\contenido\Pedidos\listar.php:36
+Stack trace:
+#0 C:\xampp\htdocs\ejercicios\TFG\Luis_GArcia_Clavel_final\core\View.php(27): include_once()
+#1 C:\xampp\htdocs\ejercicios\TFG\Luis_GArcia_Clavel_final\controllers\pedidos_controller.php(173): View->show('contenido/Pedid...', Array)
+#2 C:\xampp\htdocs\ejercicios\TFG\Luis_GArcia_Clavel_final\core\FrontController.php(42): pedidos_Controller->eliminar()
+#3 C:\xampp\htdocs\ejercicios\TFG\Luis_GArcia_Clavel_final\index.php(10): FrontController::main()
+#4 {main}
+  thrown in C:\xampp\htdocs\ejercicios\TFG\Luis_GArcia_Clavel_final\views\contenido\Pedidos\listar.php on line 36
+[07-May-2021 17:32:54 Europe/Berlin] PHP Notice:  Undefined variable: clientes_pedidos in C:\xampp\htdocs\ejercicios\TFG\Luis_GArcia_Clavel_final\views\contenido\Pedidos\listar.php on line 36
+[07-May-2021 17:32:54 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\ejercicios\TFG\Luis_GArcia_Clavel_final\views\contenido\Pedidos\listar.php on line 36
+[07-May-2021 17:32:54 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function getNick() on null in C:\xampp\htdocs\ejercicios\TFG\Luis_GArcia_Clavel_final\views\contenido\Pedidos\listar.php:36
+Stack trace:
+#0 C:\xampp\htdocs\ejercicios\TFG\Luis_GArcia_Clavel_final\core\View.php(27): include_once()
+#1 C:\xampp\htdocs\ejercicios\TFG\Luis_GArcia_Clavel_final\controllers\pedidos_controller.php(173): View->show('contenido/Pedid...', Array)
+#2 C:\xampp\htdocs\ejercicios\TFG\Luis_GArcia_Clavel_final\core\FrontController.php(42): pedidos_Controller->eliminar()
+#3 C:\xampp\htdocs\ejercicios\TFG\Luis_GArcia_Clavel_final\index.php(10): FrontController::main()
+#4 {main}
+  thrown in C:\xampp\htdocs\ejercicios\TFG\Luis_GArcia_Clavel_final\views\contenido\Pedidos\listar.php on line 36
+[07-May-2021 17:37:54 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: Return value of Clientes_Model::read() must be an instance of Cliente, null returned in C:\xampp\htdocs\ejercicios\TFG\Luis_GArcia_Clavel_final\models\Clientes_Model.php:17
+Stack trace:
+#0 C:\xampp\htdocs\ejercicios\TFG\Luis_GArcia_Clavel_final\controllers\clientes_controller.php(103): Clientes_Model->read('5')
+#1 C:\xampp\htdocs\ejercicios\TFG\Luis_GArcia_Clavel_final\core\FrontController.php(42): Clientes_Controller->eliminar()
+#2 C:\xampp\htdocs\ejercicios\TFG\Luis_GArcia_Clavel_final\index.php(10): FrontController::main()
+#3 {main}
+  thrown in C:\xampp\htdocs\ejercicios\TFG\Luis_GArcia_Clavel_final\models\Clientes_Model.php on line 17
+[08-May-2021 12:34:24 Europe/Berlin] PHP Notice:  Undefined index: cliente in C:\xampp\htdocs\ejercicios\TFG\Cambio colores\controllers\facturas_controller.php on line 102
+[08-May-2021 12:34:36 Europe/Berlin] PHP Notice:  Undefined index: cliente in C:\xampp\htdocs\ejercicios\TFG\Cambio colores\controllers\facturas_controller.php on line 102
+[08-May-2021 12:34:48 Europe/Berlin] PHP Notice:  Undefined index: cliente in C:\xampp\htdocs\ejercicios\TFG\Cambio colores\controllers\facturas_controller.php on line 102
+[09-May-2021 09:54:08 Europe/Berlin] PHP Notice:  Undefined variable: citas in C:\xampp\htdocs\ejercicios\TFG\Luis_GArcia_Clavel_final\views\contenido\home.php on line 38
